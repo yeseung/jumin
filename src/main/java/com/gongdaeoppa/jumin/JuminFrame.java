@@ -34,7 +34,7 @@ public class JuminFrame extends JFrame {
     private int tmp_gender;
 
 
-    JuminFrame(String title){
+    public JuminFrame(String title){
 
         super(title);
 
